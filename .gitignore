@@ -1,3 +1,5 @@
 app.html
 *.plain.html
 .DS_Store
+CLAUDE.local.md
+CLAUDE.md

@@ -1,4 +1,4 @@
-"""Encrypt the House Book app into index.html.
+"""Encrypt the Willovita Roots app into index.html.
 
 Usage:
     pip install cryptography
