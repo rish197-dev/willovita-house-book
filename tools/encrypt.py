@@ -1,4 +1,4 @@
-"""Encrypt the Willovita Roots app into index.html.
+"""Encrypt the Willovita Operations app into index.html.
 
 Usage:
     pip install cryptography
